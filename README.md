@@ -13,6 +13,7 @@ For this assignment, you will write a series of functions related to dates and l
 * `calendar_test.cpp` - Your tests go here.
 * `calendar.h` - Header file for `calendar.cpp`, already written for you.
 * `main.cpp` - Contains main function if you want to run the functions in `calendar.cpp`.
+* `googletest/` - Contains code for the GoogleTest framework.
 
 **Do not change any files other than `calendar.cpp` and `calendar_test.cpp`!**
 
